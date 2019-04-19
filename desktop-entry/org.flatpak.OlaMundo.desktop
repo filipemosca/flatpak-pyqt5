@@ -1,0 +1,11 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Name=Olá Mundo
+GenericName=Flatpak com PyQt5
+Comment=Flatpak com PyQt5
+Type=Application
+Exec=run-app.sh
+Icon=org.flatpak.OlaMundo
+Terminal=false
+Categories=Development;Qt;
+StartupNotify=true
