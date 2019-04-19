@@ -477,6 +477,6 @@ Novamente muito obrigado a todos do forum pelos comentarios e apoio que tenho re
 
 Em breve espero poder trazer mais contudo sobre Python e caso você que está lendo tenha alugma ideia para o proximos conteudos sinta-se a vontade para entrar em contato comigo ou deixar como resposta aqui no forum.
 
-Como prometido segue link do Github com os arquivos que foram utilizados: []().
+Como prometido segue link do Github com os arquivos que foram utilizados: [https://github.com/natorsc/flatpak-pyqt5](https://github.com/natorsc/flatpak-pyqt5).
 
 Caso encontre algum erro favor entrar em contato para que o conteudo possa ser atualizado :slight_smile:.
