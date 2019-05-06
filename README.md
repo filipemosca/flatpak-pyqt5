@@ -1,3 +1,5 @@
+> Texto original em: https://plus.diolinux.com.br/t/tutorial-python-e-qt-5-parte-3/3226?u=natorsc
+
 Terceira parte dos posts sobre construção de aplicativos com Python e Qt 5 (PyQt5), se você está começando por este texto recomendo a leitura dos links a baixo:
 
 ---
